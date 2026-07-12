@@ -1,24 +1,65 @@
-# FUTURE_DS_01
+# Future Interns - Data Science & Analytics Internship
 
-## Future Interns - Data Science & Analytics Internship
+## Task 1: Business Sales Analytics
 
-This repository contains my internship tasks completed as part of the Future Interns Data Science & Analytics Internship.
-
-### Task 1: Business Sales Analytics
-- Performed sales analysis using Python and Pandas.
-- Analyzed sales, profit, category, and region.
-- Created visualizations using Matplotlib.
-
-### Task 2: Customer Churn Analysis
-- Analyzed SaaS subscription customer data.
-- Calculated churn rate and identified churn patterns.
-- Performed plan-wise revenue analysis.
-- Analyzed billing frequency and auto-renew behavior.
-- Created business insights and visualizations.
+### Objective
+Analyze business sales data to identify:
+- Revenue Trends
+- Top-Selling Products
+- High-Value Categories
+- Regional Performance
 
 ### Tools Used
 - Python
 - Pandas
 - Matplotlib
 - Google Colab
-- GitHub
+
+### Analysis Performed
+- Data Cleaning
+- Monthly Revenue Trends
+- Top-Selling Products
+- Category-wise Sales
+- Regional Performance
+- Customer Segment Analysis
+- Sales vs Profit Analysis
+
+### Outcome
+Generated business insights and recommendations to improve sales performance.
+
+---
+
+# Task 2: Customer Retention & Churn Analysis
+
+### Objective
+Analyze customer data to identify:
+- Churn Patterns
+- Key Retention Drivers
+- Customer Lifetime Trends
+
+### Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Google Colab
+
+### Analysis Performed
+- Data Cleaning
+- Churn Pattern Analysis
+- Feature Usage Analysis
+- Support Ticket Analysis
+- Customer Lifetime Trends
+- Dashboard Visualization
+- Business Insights
+- Recommendations
+
+### Outcome
+Identified churn reasons, customer retention drivers, and strategies to improve customer retention for a subscription-based business.
+
+---
+
+## Author
+
+**Sreevidya**
+
+Future Interns - Data Science & Analytics Internship (2026)
