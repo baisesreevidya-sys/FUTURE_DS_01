@@ -58,6 +58,37 @@ Identified churn reasons, customer retention drivers, and strategies to improve 
 
 ---
 
+# Task 3: Marketing Funnel & Conversion Performance Analysis
+
+### Objective
+Analyze marketing funnel data to identify:
+- Traffic to Lead Conversion
+- Lead to Customer Conversion
+- Conversion Drop-offs
+- Channel Performance
+
+### Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Google Colab
+
+### Analysis Performed
+- Data Cleaning
+- Traffic to Lead Conversion
+- Lead to Customer Conversion
+- Conversion Drop-offs
+- Channel Performance
+- Dashboard
+- Business Insights
+- Recommendations
+- Conclusion
+
+### Outcome
+Analyzed marketing funnel performance, identified customer conversion patterns, evaluated channel performance, detected conversion drop-offs, and provided actionable recommendations to improve lead-to-customer conversion.
+
+---
+
 ## Author
 
 **Sreevidya**
